@@ -1,0 +1,15 @@
+{
+    "name": "ash-moon/youtube-clone-api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashmoon32",
+            "email": "nyeinmaung3021@gmail.com"
+        }
+    ],
+    "require": {}
+}
